@@ -1,0 +1,36 @@
+body{
+    background-color: deepskyblue;
+    display: flex;
+}
+
+.mainContainer{
+    height: 400px;
+    width: 350px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: wheat;
+}
+
+.imageContainer{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+    background-color: cornflowerblue;
+}
+
+.close{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: darkred;
+
+}
+
+a{
+    color: chocolate;
+}
